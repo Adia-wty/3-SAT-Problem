@@ -89,4 +89,7 @@ The following result is from a [similar research of Stanford University](http://
 ## Result
 Finally this project shows that 
 * **3-SAT exhibits an easy-hard-easy computational pattern**
-* **Around the ratio of 4.25 the 3-SAT becomes hardest to solve**.
+* **Around the ratio of 4.25 the 3-SAT becomes hardest to solve**. I completed this project in 2019 Jan under the guidance of Martin Aleksandrov in Technische Universität Berlin. He is really an excellent professor and gave me much insight in Artificial Intelligence.
+
+## Acknowledgement
+I completed this project in January 2019 under the guidance of Professor Martin Aleksandrov in Technische Universität Berlin. He is really excellent and gave me much more insight in Artificial Intelligence than I expected.
